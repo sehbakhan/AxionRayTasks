@@ -1,0 +1,25 @@
+Root Cause,Symptom Condition ,Symptom Component,Fix Condition,Fix Component
+Not Tightened,Loose,Cab P Clip,Retightened,Cab P Clip
+Not Installed,Won't stay open,Fuel Door,Installed,Gas Strut
+Not Mentioned,Crushed,Compressor Pressure Line,Replaced,Braided Steel
+Loosened,Oil Running,Not Mentioned,Topped Off,O-Ring
+Not Included,Missing,Vector,Not Mentioned,Vector
+Out of Fitting,Oil Dripping,Coupler,Cleaned Out,Coupler
+Blown,Oil Leak,Mount SVM Sign,Reseted,Brackets
+Poor Material,Broke,Harness,Repaired,Hydraulic
+Leaking,Leak,Rinse Tank,Tightened,Not Mentioned
+Failed Sending,Open,Fuel Sender,,NCV Harness
+No Oring,Hydraulic Leak,Boom,,Tube
+Not Tighten,Fold Uneven,Auto Boom,,Oring
+Out of Range,Getting Fault Code,Condenser,,Sensor
+Lubricant Drip Drown,Not Working,Left-Air Duct,,Counter
+Fault,Error Codes,Bulkhead Connector,,Threads
+Internal Issue,Product Leak,Braided Steel,,Left Air Duct
+Screwed in a Thread,Does not Light,Intrip Unlocks,,Compressor Line
+Faulty,,Sensor,,Intrip Unlocks
+,,,,Bolts
+,,,,Harness
+,,,,Pipe Fitting
+,,,,Bulkhead Connector
+,,,,SVM Sign
+,,,,ELB
